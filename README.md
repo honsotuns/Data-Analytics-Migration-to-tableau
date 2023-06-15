@@ -5,6 +5,7 @@
 
 1.2 Setting up AWS
 
+
 2 Data Wrangling and Cleaning
 
 2.1  Loaded the csv file into Pandas dataframe
@@ -26,6 +27,7 @@
 2.9 Downloaded a copy of the file into my local machine from AWS S3
 
 
+
 3 PostgreSQL RDS data import and reporting
 
 3.1 From AWS, I copied my endpoint address.
@@ -40,11 +42,15 @@
 
 3.6 Imported the combined_data.csv file into the flights table
 
+
+
 4 Integrated Tableau Desktop with PostgreSQL 
 
 4.1 Downloaded and install Tableau Desktop
 
 4.2 Configured the PostgreSQL connector and connected it to the flights_analytics_database RDS
+
+
 
 5 Created Tableau reports
 
