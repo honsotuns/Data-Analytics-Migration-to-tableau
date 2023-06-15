@@ -1,9 +1,12 @@
 # Data Analytics Migration Tableau
 1 Setting up the environment
+
 1.1 Created a GitHub repo which was linked to my Vscode
+
 1.2 Setting up AWS
 
 2 Data Wrangling and Cleaning
+
 2.1  Loaded the csv file into Pandas dataframe
 2.2 Turned each csv file into a seperate dataframe. Each method randomly samples 10% of the massively large data, because to my machine memory
 2.3 Using Pandas, Printed the numbers of records that contains NULL values
