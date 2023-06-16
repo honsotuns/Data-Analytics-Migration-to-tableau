@@ -1,4 +1,6 @@
 # Data Analytics Migration Tableau
+MIGRATING DATA FROM EXCEL-BASED MANUAL INTO INTERACTIVE TABLEAU REPORTS
+
 1: Setting up the environment
 
 * Created a GitHub repo which was linked to my Vscode
