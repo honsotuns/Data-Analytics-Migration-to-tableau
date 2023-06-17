@@ -65,4 +65,7 @@ MIGRATING DATA FROM EXCEL-BASED MANUAL INTO INTERACTIVE TABLEAU REPORTS
 * Created a Tabeau report for flights delays and cancellation
 
 
+     * To run: python flights.py
+
+
 
