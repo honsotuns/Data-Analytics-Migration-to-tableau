@@ -1,4 +1,4 @@
-# Data Analytics Migration Tableau
+# Data Analytics Migration to Tableau
 MIGRATING DATA FROM EXCEL-BASED MANUAL INTO INTERACTIVE TABLEAU REPORTS
 
 1: Setting up the environment
