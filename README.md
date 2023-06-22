@@ -1,5 +1,11 @@
 # Data Analytics Migration to Tableau
-MIGRATING DATA FROM EXCEL-BASED MANUAL INTO INTERACTIVE TABLEAU REPORTS
+Data Analytics Migration to Tableau project which takes the role of a Data Analyst at Skyscanner that is tasked with ingesting, integrating and cleaning a large dataset containing flight data, loading the cleaned data into a PostgreSQL database, and finally integrating that database with Tableau to create real-time visualisations and dashboards that can be used by top management for strategic decision making.
+* Used Pandas to ingest 10 years of flight data containing millions of records each and integrated that data together
+* Cleaned the data using various techniques to remove unwanted or incomplete data and saved the output in an integrated CSV file
+* Used PostgreSQL on AWS RDS to store the cleaned and transformed data in order to enable data analysis
+* Integrated Tableau with the PostgreSQL RDS to visually explore the data and to create visualisations and various real-time charts (bubble, pie, bar and line) using the back-end flights data stored in RDS
+* Prepared a presentation to share with top management highlighting the insights and findings observed
+
 
 1: Setting up the environment
 
